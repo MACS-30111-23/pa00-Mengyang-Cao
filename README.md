@@ -1,25 +1,31 @@
 # PA 00
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+# Mengyang Cao
+
+## Introduction
+
+Hello! My name is **Mengyang**, and I am _MACSS-Econ_ student at the University of Chicago.
+
+![My Hometown](picture.jpg)
+
+## Education
+
+- **University of Chicago**
+
+- **University of Michigan**
+
+## Links to Uchicago
+
+- [University of Chicago](https://www.uchicago.edu)
 
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+## Git/GitHub Workflow and Markdown
 
+1. Created a new repository on GitHub.
+2. Cloned the repository to my local computer for editing.
+3. Created the README file and added content using Markdown.
+4. Pushed changes to the GitHub repository to update it.
 
+Working with Markdown is great. I learned how to use various formatting techniques to enhance the readability of my documentation. This has significantly improved my ability to document my work and share it effectively. It's easy to insert a picture as long as I put the picture into my repository.
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://github.com/apps/github-learning-lab)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
